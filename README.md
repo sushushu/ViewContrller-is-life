@@ -1,1 +1,17 @@
-# ViewContrller-is-life
+```
+2020-05-02 00:44:51.814434+0800 ViewLife[88418:10010330]  +[OneViewController load]
+2020-05-02 00:44:54.123164+0800 ViewLife[88418:10010330]  +[OneViewController initialize]
+2020-05-02 00:44:54.123919+0800 ViewLife[88418:10010330]  -[OneViewController init]
+2020-05-02 00:44:54.124004+0800 ViewLife[88418:10010330]  -[OneViewController initWithNibName:bundle:]
+2020-05-02 00:44:54.124355+0800 ViewLife[88418:10010330]  -[OneViewController loadView]
+2020-05-02 00:44:54.124567+0800 ViewLife[88418:10010330]  -[OneViewController viewDidLoad]
+2020-05-02 00:44:54.129922+0800 ViewLife[88418:10010330]  -[OneViewController viewWillAppear:]
+2020-05-02 00:44:54.138379+0800 ViewLife[88418:10010330]  -[OneViewController viewWillLayoutSubviews]
+2020-05-02 00:44:54.138922+0800 ViewLife[88418:10010330]  -[OneViewController viewDidLayoutSubviews]
+2020-05-02 00:44:54.152321+0800 ViewLife[88418:10010330]  -[OneViewController viewWillLayoutSubviews]
+2020-05-02 00:44:54.154022+0800 ViewLife[88418:10010330]  -[OneViewController viewDidLayoutSubviews]
+2020-05-02 00:44:54.663098+0800 ViewLife[88418:10010330]  -[OneViewController viewDidAppear:]
+2020-05-02 00:44:56.344400+0800 ViewLife[88418:10010330]  -[OneViewController viewWillDisappear:]
+2020-05-02 00:44:57.215498+0800 ViewLife[88418:10010330]  -[OneViewController viewDidDisappear:]
+2020-05-02 00:44:57.216284+0800 ViewLife[88418:10010330]  -[OneViewController dealloc]
+```
